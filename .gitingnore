@@ -3,4 +3,5 @@
 # no .vs folder
 .vs/
 
-.mp4
+
+*.mp4
