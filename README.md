@@ -1,2 +1,2 @@
-# C-OpenCV
+# C++-OpenCV
 C++ training and OpenCV 
